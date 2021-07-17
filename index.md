@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages web page Cayman theme
 
 You can use the [editor on GitHub](https://github.com/kevin-g5/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,9 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block - Cayman theme.
 
-# Header 1
+# Header 1 
 ## Header 2
 ### Header 3
 
